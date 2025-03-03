@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/CO542/project/Neuralnetworkproject_chala/Neuralnetworkproject_chala/mlruns/0/a010dd068c3f48cbba13c180dbc778c1/artifacts
+end_time: 1740999862110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a010dd068c3f48cbba13c180dbc778c1
+run_name: rumbling-toad-253
+run_uuid: a010dd068c3f48cbba13c180dbc778c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740999836551
+status: 3
+tags: []
+user_id: User

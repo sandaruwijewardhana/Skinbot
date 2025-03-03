@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/CO542/project/Neuralnetworkproject_chala/Neuralnetworkproject_chala/mlruns/503598609218918435/5c91cd55dd4a4d6499d9bdc99719de8a/artifacts
+end_time: 1740940663268
+entry_point_name: ''
+experiment_id: '503598609218918435'
+lifecycle_stage: active
+run_id: 5c91cd55dd4a4d6499d9bdc99719de8a
+run_name: rumbling-sow-708
+run_uuid: 5c91cd55dd4a4d6499d9bdc99719de8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740940662942
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,20 @@
+artifact_path: skin_type_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.9.8
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.16.2
+    model_type: keras
+    save_format: tf
+mlflow_version: 2.20.3
+model_size_bytes: 13256443
+model_uuid: 68fa24695300404f9d47d033bbfa2120
+run_id: 332e7c1bb2134e999d90b56303b22c00
+utc_time_created: '2025-03-03 10:47:14.675327'

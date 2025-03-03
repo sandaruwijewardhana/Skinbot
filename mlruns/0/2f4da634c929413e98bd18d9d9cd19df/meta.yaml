@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/CO542/project/Neuralnetworkproject_chala/Neuralnetworkproject_chala/mlruns/0/2f4da634c929413e98bd18d9d9cd19df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f4da634c929413e98bd18d9d9cd19df
+run_name: suave-fish-297
+run_uuid: 2f4da634c929413e98bd18d9d9cd19df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003356782
+status: 1
+tags: []
+user_id: User

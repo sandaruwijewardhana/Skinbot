@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/CO542/project/Neuralnetworkproject_chala/Neuralnetworkproject_chala/mlruns/0/3af5b276dcc84719891954cc16b5f85d/artifacts
+end_time: 1741000891888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3af5b276dcc84719891954cc16b5f85d
+run_name: salty-snipe-892
+run_uuid: 3af5b276dcc84719891954cc16b5f85d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741000885229
+status: 4
+tags: []
+user_id: User
